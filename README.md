@@ -28,6 +28,3 @@ The player controls the dinosaur using hand gestures detected through a webcam.
 - Score and high score system
 - Built-in webcam preview
 
-## Installation
-
-Install dependencies:
